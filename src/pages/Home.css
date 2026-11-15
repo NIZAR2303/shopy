@@ -1,0 +1,62 @@
+/* General */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background: #f5f7fb;
+}
+
+
+/* Home Page */
+
+.home-container {
+    max-width: 1300px;
+    margin: auto;
+    padding: 30px;
+}
+
+.home-container h1 {
+    text-align: center;
+    margin-bottom: 25px;
+    color: #172554;
+}
+
+
+/* Search Bar */
+
+.search-container {
+    display: flex;
+    justify-content: center;
+    margin: 25px 0;
+}
+
+.search-container input {
+    width: 60%;
+    padding: 13px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-size: 16px;
+}
+
+
+/* Filters */
+
+.filter-container {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin: 25px 0;
+    flex-wrap: wrap;
+}
+
+.filter-container select {
+    padding: 12px 20px;
+    border: 1px solid #ccc;
+    border-radius: 7px;
+    cursor: pointer;
+}
