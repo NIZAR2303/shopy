@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/shopy/static/css/main.71c31efc.css",
+    "main.js": "/shopy/static/js/main.0dcc2589.js",
+    "static/js/453.05ff6fbf.chunk.js": "/shopy/static/js/453.05ff6fbf.chunk.js",
+    "static/media/laptop.jpg": "/shopy/static/media/laptop.957e84e267eb5f964925.jpg",
+    "static/media/keyboard.jpg": "/shopy/static/media/keyboard.013ee52800ed871db163.jpg",
+    "static/media/headphone.jpg": "/shopy/static/media/headphone.e0390d1f05b8d07ca58a.jpg",
+    "static/media/mobile.jpg": "/shopy/static/media/mobile.0048d8cb2c37f50ace8e.jpg",
+    "index.html": "/shopy/index.html",
+    "main.71c31efc.css.map": "/shopy/static/css/main.71c31efc.css.map",
+    "main.0dcc2589.js.map": "/shopy/static/js/main.0dcc2589.js.map",
+    "453.05ff6fbf.chunk.js.map": "/shopy/static/js/453.05ff6fbf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71c31efc.css",
+    "static/js/main.0dcc2589.js"
+  ]
+}
